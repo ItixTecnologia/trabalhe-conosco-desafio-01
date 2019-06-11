@@ -18,7 +18,7 @@ Criar uma aplicação que simule uma agenda de compromissos de um consultório m
 * Linguagem C#.
 * Banco de dados MS SQL Server.
 * Criar testes unitários para a solução.
-* Desenvolver a interface gráfica utilizando o framework AngularJS.
+* Desenvolver a interface gráfica utilizando o framework Angular.
 
 ## Diferencial
 * Utilizar o .NET Core
